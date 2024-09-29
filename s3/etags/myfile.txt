@@ -1,0 +1,4 @@
+HI
+This is a Etags Testing File!
+
+Changing the content of the file to see if terraform able to track the changes.
